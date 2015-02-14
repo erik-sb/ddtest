@@ -1,3 +1,3 @@
 require("shelljs/global");
 
-exec('exec "hello world"');
+exec('exec "this is master"');
